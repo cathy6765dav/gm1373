@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.jamba.com/about");
+header("Location: https://www.google.com/about");
 die();
 ?>
