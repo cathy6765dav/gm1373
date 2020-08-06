@@ -1,4 +1,4 @@
 <?php
-header("Location: https://www.radians.com/industrial-safety/hand-protection");
+header("Location: https://www.woodeesdiner.com/");
 die();
 ?>
